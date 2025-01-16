@@ -1,0 +1,7 @@
+.welcomeMsg{
+  margin: 30px 0;
+  font-weight: 700;
+  background: linear-gradient(90deg,  #7ed957, #ff758c, #42aaff);
+  -webkit-background-clip: text; /* Ensures the background is clipped to the text */
+  -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+}

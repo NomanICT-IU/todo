@@ -1,0 +1,8 @@
+.appHeading{
+  font-size:44px;
+  font-weight: 700;
+  background: linear-gradient(90deg, #ff7eb3, #ff758c, #42aaff);
+  -webkit-background-clip: text; /* Ensures the background is clipped to the text */
+  -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+  margin-bottom: 15px;
+}
