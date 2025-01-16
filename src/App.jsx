@@ -4,7 +4,7 @@ import "./App.css";
 import AddTodo from "./component/AddTodo";
 import AppName from "./component/AppName";
 import Container from "./component/Container";
-import TodoItems from "./component/todoItems";
+import TodoItems from "./component/TodoItems";
 import Welcome from "./component/Welcome";
 
 const App = () => {
